@@ -1,5 +1,11 @@
 # React + Laravel — Shared Hosting Ready (Bluehost-friendly template)
 
+![Template](https://img.shields.io/badge/GitHub-Template-brightgreen)
+![Shared Hosting](https://img.shields.io/badge/Shared%20Hosting-Ready-blue)
+
+Validated in real production conditions on shared hosting (Bluehost).
+No Node.js required in production.
+
 Template repo pour déployer :
 - **Frontend** : React + Vite (build statique `dist/`) sur shared hosting
 - **Backend** : Laravel API (Sanctum Bearer tokens) sur shared hosting
